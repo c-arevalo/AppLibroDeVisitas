@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppLibroDeVisitas</string>
+    <string name="nombre">Introduce tu nombre</string>
+    <string name="vis">Visitantes anteriores</string>
+    <string name="error">La caja de texto no puede estar vacía</string>
+    <string name="bienvenido">¡Bienvenido!</string>
+    <string name="errorR">Error al registrar el nombre</string>
+</resources>
